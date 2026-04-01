@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-04-01T01:58:49.624Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-04-01T02:03:18.467Z",
     "templateType": "full_banner_accordion",
     "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
     "homepageId": "c7122610-5544-4e55-897a-d6f5b6149960"
@@ -1093,13 +1093,16 @@
             "family": "Cormorant"
           },
           "koMain": {
-            "cdn": null,
-            "key": "cafe24gowoonbam",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Oneprettynight.woff",
-            "family": "Cafe24Gowoonbam"
+            "cdn": "https://hangeul.pstatic.net/hangeul_static/css/maru-buri.css",
+            "key": "maruburi",
+            "woff2": null,
+            "family": "MaruBuri"
           }
         },
-        "color": null
+        "color": {
+          "primary": "#F5F0E8",
+          "secondary": "#3E5B45"
+        }
       },
       "popup": {
         "popups": []
@@ -3126,6 +3129,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "c7122610-5544-4e55-897a-d6f5b6149960"
   }
 }
