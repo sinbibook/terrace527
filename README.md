@@ -1,1 +1,1 @@
-# terrace527
+# template-full-banner-accordion Template
