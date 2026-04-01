@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-04-01T01:56:41.053Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-04-01T01:58:49.624Z",
     "templateType": "full_banner_accordion",
     "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
     "homepageId": "c7122610-5544-4e55-897a-d6f5b6149960"
@@ -1078,9 +1078,6 @@
           ]
         }
       },
-      "popup": {
-        "popups": []
-      },
       "theme": {
         "font": {
           "koSub": {
@@ -1103,6 +1100,9 @@
           }
         },
         "color": null
+      },
+      "popup": {
+        "popups": []
       },
       "property": {
         "images": [
@@ -3126,7 +3126,6 @@
           ]
         }
       ]
-    },
-    "id": "c7122610-5544-4e55-897a-d6f5b6149960"
+    }
   }
 }
