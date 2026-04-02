@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-04-02T06:56:10.549Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-04-02T07:02:30.824Z",
     "templateType": "full_banner_accordion",
     "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
     "homepageId": "c7122610-5544-4e55-897a-d6f5b6149960"
@@ -1053,13 +1053,6 @@
                     "isSelected": true
                   },
                   {
-                    "id": "1d03a46a-88e1-4299-8199-78e54f2bfc51",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/index_hero/1775006117451-t26lz5cigk.jpg",
-                    "sortOrder": 4,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
                     "id": "79d7bc40-ec9c-49ba-bb1b-f7da2c36bcdb",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/index_hero/1775112961225-zucvmfuf9xi.jpg",
                     "sortOrder": 5,
@@ -1129,42 +1122,42 @@
                   {
                     "id": "8051c456-566a-4971-87d6-a1ce8164640a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/index_gallery/1775007297440-ykv3icpgoee.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "6599ab4b-7dcb-49c3-8572-2052b3f73ddb",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/index_gallery/1775007523759-j7qzd0shb5.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "bfe15b19-e339-49dc-8f76-ef7faff3e8e0",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/index_gallery/1775007523759-2vovztt3yns.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "107be189-26eb-4ab5-acd2-7b1649de37c6",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/index_gallery/1775112961225-5nmkvx5rpjh.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "935b57bb-454d-4566-9d00-b97a558de9e5",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/index_gallery/1775007297440-d0wcfvh8mm.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "138c596f-f83f-4362-90f6-237256c61fb8",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/index_gallery/1775007523759-idyb7w1w12l.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 7,
                     "description": "",
                     "isSelected": true
                   }
@@ -1272,23 +1265,47 @@
                     "isSelected": true
                   },
                   {
-                    "id": "2fbbf486-6de4-402e-8f84-42669ccb12e2",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/main_hero/1775008527421-r17s5mpjdyj.jpg",
+                    "id": "9df3fc0e-fe3e-4655-ad32-45c68fe46b36",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/main_hero/1775113206631-44lbvuhkk9k.jpg",
                     "sortOrder": 2,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "0c3b265a-955b-47ec-8140-f069537b74bb",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/main_hero/1775008527421-p43woly787.jpg",
-                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   }
                 ],
                 "description": "산정호수 옆, 테라스527은 조용한 쉼을 위한 글램핑 & 스테이입니다.\n숲과 하늘 속에서 걷고 쉬며 여유로운 하루를 보낼 수 있습니다.\n모든 객실은 개별 공간으로 프라이빗한 바비큐와 휴식을 제공합니다.\n불멍, 시네마 나잇 등 선택형 스테이 서비스도 함께 즐길 수 있습니다.\n주변 명소와 가까워 가볍게 이어지는 여행이 가능합니다.\n일상의 속도를 낮추고 싶은 순간, 테라스527을 경험해보세요."
               },
-              "about": []
+              "about": [
+                {
+                  "title": "낭만 가득 글램핑동",
+                  "images": [
+                    {
+                      "id": "97ae3383-7647-403e-957c-c569300e5e11",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/main_about/1775113080839-10dp4myp2voi.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "efe2c3cc-33e2-4601-8978-762e466527d1"
+                    }
+                  ],
+                  "blockId": "efe2c3cc-33e2-4601-8978-762e466527d1",
+                  "description": "낭만 가득한 글램핑동에서\n자연과 함께 특별한 하루를 만나보세요."
+                },
+                {
+                  "title": "편안함을 더한 펜션동",
+                  "images": [
+                    {
+                      "id": "055c7386-9e6d-4af6-982c-6a11faa66ec5",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/main_about/1775113157629-ey01wob6mc.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "2e486c45-45fb-42c8-98a6-56a58901e0f2"
+                    }
+                  ],
+                  "blockId": "2e486c45-45fb-42c8-98a6-56a58901e0f2",
+                  "description": "편리한 시설을 갖춘 펜션동에서\n더욱 여유롭고 편안한 휴식을 즐겨보세요."
+                }
+              ]
             }
           ]
         },
