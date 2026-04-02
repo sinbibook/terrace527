@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.18.0",
-    "generatedAt": "2026-04-02T08:51:36.817Z",
+    "version": "1.19.0",
+    "generatedAt": "2026-04-02T09:18:46.781Z",
     "templateType": "full_banner_accordion",
     "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
     "homepageId": "c7122610-5544-4e55-897a-d6f5b6149960"
@@ -63,11 +63,69 @@
     },
     "facilities": [
       {
+        "id": "eb7a4bfb-1ee5-400c-a379-cb79509e8887",
+        "name": "산정호수",
+        "description": "산정호수는 사계절 아름다운 풍경과 함께 여유로운 산책을 즐길 수 있는 포천의 대표 힐링 명소입니다.",
+        "usageGuide": " ",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "b9a87a0b-c9ba-4c77-99ff-dc21b699f102",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb7a4bfb-1ee5-400c-a379-cb79509e8887/main/1775120437679-pqb05yxawg9.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "7879c955-b59a-455d-8ee9-ed627267a1fc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb7a4bfb-1ee5-400c-a379-cb79509e8887/main/1775120437679-5q2rzipsyrx.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "381536e2-b058-4258-b9c8-bb997f795c0b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb7a4bfb-1ee5-400c-a379-cb79509e8887/main/1775120437679-jyyopntvvjs.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "9d1b8e94-af39-438b-84b5-493904114f17",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb7a4bfb-1ee5-400c-a379-cb79509e8887/main/1775120437679-zdoe3s3jme.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "d8d75120-252e-42cd-898a-a5bb252cb702",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb7a4bfb-1ee5-400c-a379-cb79509e8887/main/1775120437679-8mvocdgrfxh.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "62d47c0e-6cf6-420d-9607-db0ce392a25f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb7a4bfb-1ee5-400c-a379-cb79509e8887/main/1775120437679-lqg0mtliwe.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "0350467f-c8ec-4a9b-a5db-3ea2ea378113",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb7a4bfb-1ee5-400c-a379-cb79509e8887/main/1775120437679-wf8s8tcjr8s.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          }
+        ]
+      },
+      {
         "id": "c35e98dc-20ef-484d-99f7-ed4f783ae298",
         "name": "개별바베큐+불멍",
         "description": "프라이빗한 개별 바베큐를 즐겨보세요",
         "usageGuide": "- 웨버그릴, 불멍용 참나무 장작세트, 오로라가루\n- 이용금액 : 20,000원(1회기준/현장결제)\n- 운영시간 : ~22시까지\n※ 숯/그릴 개인지참 불가",
-        "displayOrder": 3,
+        "displayOrder": 4,
         "images": [
           {
             "id": "89f2447e-1957-47a5-a166-d9a917e6842c",
@@ -119,7 +177,36 @@
         "description": "넓은 공용 바베큐장을 즐겨보세요 ! ",
         "usageGuide": "- 웨버그릴, 불멍용 참나무 장작세트, 오로라가루\n- 이용금액 : 4인기준 20,000원 / 1인 추가시 5,000원 (1회기준/현장결제)\n- 운영시간 : ~22시까지\n※ 숯/그릴 개인지참 불가",
         "displayOrder": 113,
-        "images": []
+        "images": [
+          {
+            "id": "e652e027-9a21-4b28-8193-ac0ed1efe1e1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/03ee6982-f2a6-42f5-8c2a-61a49cb23a5c/main/1775120316862-lg0fm2f7f2.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "b7c6eb00-c601-43c3-b8b2-3292214aadc7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/03ee6982-f2a6-42f5-8c2a-61a49cb23a5c/main/1775120316862-k5i2qgkyhd7.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "2cff2815-c0c3-4ec4-8c05-e2f03ea1802e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/03ee6982-f2a6-42f5-8c2a-61a49cb23a5c/main/1775120316862-yxmnrr07m7.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "4913bf78-04a7-4255-9c2c-7148baf8e6a3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/03ee6982-f2a6-42f5-8c2a-61a49cb23a5c/main/1775120316862-5ylx5bm5r47.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "91cd9898-fc2c-4854-a51c-3460823dc437",
@@ -171,46 +258,13 @@
             "isSelected": true
           }
         ]
-      },
-      {
-        "id": "f13992ac-e669-4eb9-a57e-39eb6699bd0e",
-        "name": "야외수영장",
-        "description": "시원한 여름을 즐겨보세요 ! ",
-        "usageGuide": "지하 200m 천연 암반수 사용\n- 크기 : 7M 대형 아웃도어 풀\n- 이용요금 : 무료\n- 이용시간 : 10:00~18:00\n- 이용기간 : 하계 운영 예정(추후안내예정)\n※ 영유아, 어린이는 보호자 동반하여 이용부탁드립니다.",
-        "displayOrder": 115,
-        "images": [
-          {
-            "id": "d30cdd72-d362-4229-a711-1030a33a1066",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f13992ac-e669-4eb9-a57e-39eb6699bd0e/main/1774948817524-x8g78sp4yfd.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "84a2df31-6427-49b1-90b7-ab2449db6647",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f13992ac-e669-4eb9-a57e-39eb6699bd0e/main/1774948817524-55zj2wozs3j.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "13ffdd12-ad26-4b0c-b6d8-1d84d456cc50",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f13992ac-e669-4eb9-a57e-39eb6699bd0e/main/1774948817524-63uxktiuzaj.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "2dbcfc0c-38a0-4a0a-8f49-3c62d7b8147f",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f13992ac-e669-4eb9-a57e-39eb6699bd0e/main/1774948817524-1kt9i0qm3fs.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          }
-        ]
       }
     ],
     "refundPolicies": [
+      {
+        "refundProcessingDays": 6,
+        "refundRate": 60
+      },
       {
         "refundProcessingDays": 5,
         "refundRate": 50
@@ -246,10 +300,6 @@
       {
         "refundProcessingDays": 7,
         "refundRate": 70
-      },
-      {
-        "refundProcessingDays": 6,
-        "refundRate": 60
       }
     ],
     "refundSettings": {
@@ -259,8 +309,157 @@
     },
     "images": [
       {
-        "thumbnail": [],
-        "exterior": [],
+        "thumbnail": [
+          {
+            "id": "12b03fd6-1414-46d2-961c-6b3b537b7cb2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/thumbnail/1775120505785-glw2rp8v7e.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ],
+        "exterior": [
+          {
+            "id": "e37a0c7a-759f-47f0-be02-12f34f92b12d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505786-tub4i708s7g.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "f80b9d4a-b769-466f-ac02-a1522877ddf2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505786-7rf51a2vhj6.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "a487dfac-571c-4576-a8f2-f43efc33602f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505785-br9zrg4sl0k.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "43f1b4aa-2356-4cec-84b8-fd444fae2ab7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505786-r6ssjnato4.jpg",
+            "sortOrder": 12,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "6122b3ec-17be-403c-8878-e719cb7ba023",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505786-uxahhwbpov.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "6c42cd29-cc9e-4dbc-a220-31947c4f3350",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505787-cmg5le5xv37.jpg",
+            "sortOrder": 19,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "00167ad5-49ff-4f99-a5c9-f5a568e3ff47",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505785-y7s38y3vjb.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "da2e6c56-025d-42d8-8911-1196e1a08519",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505786-9d1jos046fa.jpg",
+            "sortOrder": 11,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e07c030b-f0b7-43e9-8489-1a06c192fc3e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505785-lqn8u91uv6c.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "435c184d-2de5-4975-8f1b-72b8149213fe",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505786-rxp5t4zjp37.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "55a66017-b5ba-431c-939f-1519f83787ad",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505786-5bccoc1qo1g.jpg",
+            "sortOrder": 17,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "b1e054af-0714-4b6d-b082-204234b4c204",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505786-so72rsacru.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "a050a4ab-c4e9-4806-9084-6675a06c23af",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505786-xdt9v9ku5d.jpg",
+            "sortOrder": 18,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e16c7996-6854-4637-a4fc-b28e84c12d17",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505786-vnty88w2r78.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e448034e-bbba-40d4-8678-2b8b2d4cfa76",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505786-quetp7y4cyo.jpg",
+            "sortOrder": 15,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "cdc06b5f-893e-4f3e-9fa3-965e4f9562f9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505786-sx0bozjwyg.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "690280c5-26be-4c8d-94f5-e892452635b1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505786-qgoo7tg7ydl.jpg",
+            "sortOrder": 13,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "09d7566b-3104-46e0-a281-b666d1212022",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505786-fuzkquoesnw.jpg",
+            "sortOrder": 16,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e298839c-5c1e-47be-bb2e-ec25fed09bd1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505786-cqpgqit2745.jpg",
+            "sortOrder": 14,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "fe3b1924-628c-4d6a-b882-92f43431fa33",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505786-jnnvbbex83e.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true
+          }
+        ],
         "surrounding": [],
         "commonArea": []
       }
