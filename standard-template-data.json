@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-04-02T05:31:52.893Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-04-02T06:49:46.061Z",
     "templateType": "full_banner_accordion",
     "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
     "homepageId": "c7122610-5544-4e55-897a-d6f5b6149960"
@@ -1093,7 +1093,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "산정호수 옆, 테라스527은 조용한 쉼을 위한 글램핑 & 스테이입니다.\n숲과 하늘 속에서 걷고 쉬며 여유로운 하루를 보낼 수 있습니다.\n모든 객실은 개별 공간으로 프라이빗한 바비큐와 휴식을 제공합니다.\n불멍, 시네마 나잇 등 선택형 스테이 서비스도 함께 즐길 수 있습니다.\n주변 명소와 가까워 가볍게 이어지는 여행이 가능합니다.\n일상의 속도를 낮추고 싶은 순간, 테라스527을 경험해보세요."
+                "description": "산정호수 옆, 테라스527은 \n숲과 하늘 속에서 걷고 쉬며 \n여유로운 하루를 보낼 수 있습니다.\n\n모든 객실은 개별 공간으로 \n프라이빗한 바비큐와 휴식을 제공합니다.\n불멍, 시네마 나잇 등 선택형 서비스도 \n함께 즐길 수 있습니다.\n\n주변 명소와 가까워 가볍게 \n이어지는 여행이 가능합니다.\n"
               },
               "gallery": {
                 "title": "포천 테라스 527 캠핑장 미리보기",
@@ -1243,8 +1243,300 @@
             }
           ]
         },
-        "room": [],
-        "facility": [],
+        "room": [
+          {
+            "id": "3e7f5a8f-1e8d-4ae0-965b-93fda8df654d",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "95991a37-d96a-4aa2-a64b-16f4221600a9",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "7c67e40e-a353-4e38-b89e-00dfb01a6c89",
+            "sections": [
+              {
+                "hero": {
+                  "title": "  ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "772208da-277c-4c8b-add4-e01c299c6c07",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "9b6fad5c-d5e4-40cc-ba1f-57c80800b678",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "15a67652-a801-449f-9d49-2de61db4e142",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "88a8fa61-67a1-4c7d-a0bd-b4f921d084fd",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "ba8f1941-4e0c-4c31-827f-d24bf53a16cb",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "00cedfe1-7651-41ea-8429-a3f98faada6c",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "683f167a-d051-40c6-8e16-afa5d8a27e2c",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "b346e36d-5163-4a95-8090-a199e5e846e0",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "ccb75931-7a34-45d3-b773-02ad676206c4",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "e9e39af7-10bc-4301-a06c-ed466fd28965",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "59eecf62-31cb-42e2-8462-08c4814090c3",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          }
+        ],
+        "facility": [
+          {
+            "id": "c35e98dc-20ef-484d-99f7-ed4f783ae298",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "about": {
+                  "title": " ",
+                  "images": []
+                },
+                "experience": {
+                  "features": [],
+                  "additionalInfos": [],
+                  "benefits": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "03ee6982-f2a6-42f5-8c2a-61a49cb23a5c",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "about": {
+                  "title": " ",
+                  "images": []
+                },
+                "experience": {
+                  "features": [],
+                  "additionalInfos": [],
+                  "benefits": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "91cd9898-fc2c-4854-a51c-3460823dc437",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "about": {
+                  "title": " ",
+                  "images": []
+                },
+                "experience": {
+                  "features": [],
+                  "additionalInfos": [],
+                  "benefits": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "f13992ac-e669-4eb9-a57e-39eb6699bd0e",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "about": {
+                  "title": " ",
+                  "images": []
+                },
+                "experience": {
+                  "features": [],
+                  "additionalInfos": [],
+                  "benefits": []
+                }
+              }
+            ]
+          }
+        ],
         "reservation": {
           "sections": [
             {
