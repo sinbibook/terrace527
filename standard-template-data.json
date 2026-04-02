@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-04-02T07:07:50.524Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-04-02T07:42:24.888Z",
     "templateType": "full_banner_accordion",
     "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
     "homepageId": "c7122610-5544-4e55-897a-d6f5b6149960"
@@ -1000,13 +1000,21 @@
     "templateType": "full_banner_accordion",
     "images": [
       {
-        "logo": []
+        "logo": [
+          {
+            "id": "e1db422e-0654-4336-a992-5cdee30df0e9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/logo/1775115616472-1jgg5wnlj23.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "seo": {
-      "title": "",
-      "description": "",
-      "keywords": ""
+      "title": "포천 테라스527 캠핑장",
+      "description": "산과 호수, 계곡이 어우러진 자연 속에서 여유로운 쉼을 누릴 수 있는 감성 캠핑장입니다.",
+      "keywords": "포천테라스527,포천캠핑장,감성캠핑,자연속힐링,산정호수여행,포천여행"
     },
     "socialLinks": {},
     "customFields": {
@@ -1500,9 +1508,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
@@ -1520,9 +1528,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
@@ -1540,9 +1548,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
@@ -1560,9 +1568,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
