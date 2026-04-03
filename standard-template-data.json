@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.26.0",
-    "generatedAt": "2026-04-03T03:18:15.560Z",
+    "version": "1.27.0",
+    "generatedAt": "2026-04-03T03:55:11.997Z",
     "templateType": "full_banner_accordion",
     "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
     "homepageId": "c7122610-5544-4e55-897a-d6f5b6149960"
@@ -1451,23 +1451,30 @@
                 "title": "포천 테라스527 캠핑장",
                 "images": [
                   {
-                    "id": "ecf35c55-ac41-4f9b-96e1-88b90327b036",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/main_hero/1775185482518-2cuphaoa4rm.jpg",
+                    "id": "b144cde5-3f62-4da8-9944-b7563a82b6c0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/main_hero/1775008527421-xha1h2ks5t.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   },
                   {
-                    "id": "b144cde5-3f62-4da8-9944-b7563a82b6c0",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/main_hero/1775008527421-xha1h2ks5t.jpg",
+                    "id": "0624de47-753e-451d-ba80-0837aa8271c8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/main_hero/1775188406812-0uiddyv1mlw.jpg",
                     "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "ecf35c55-ac41-4f9b-96e1-88b90327b036",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/main_hero/1775185482518-2cuphaoa4rm.jpg",
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "9df3fc0e-fe3e-4655-ad32-45c68fe46b36",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/main_hero/1775113206631-44lbvuhkk9k.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   }
