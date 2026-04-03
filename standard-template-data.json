@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.23.0",
-    "generatedAt": "2026-04-03T02:46:08.616Z",
+    "version": "1.24.0",
+    "generatedAt": "2026-04-03T03:02:01.750Z",
     "templateType": "full_banner_accordion",
     "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
     "homepageId": "c7122610-5544-4e55-897a-d6f5b6149960"
@@ -304,6 +304,18 @@
     ],
     "refundPolicies": [
       {
+        "refundProcessingDays": 9,
+        "refundRate": 90
+      },
+      {
+        "refundProcessingDays": 8,
+        "refundRate": 80
+      },
+      {
+        "refundProcessingDays": 7,
+        "refundRate": 70
+      },
+      {
         "refundProcessingDays": 6,
         "refundRate": 60
       },
@@ -330,18 +342,6 @@
       {
         "refundProcessingDays": 0,
         "refundRate": 0
-      },
-      {
-        "refundProcessingDays": 9,
-        "refundRate": 90
-      },
-      {
-        "refundProcessingDays": 8,
-        "refundRate": 80
-      },
-      {
-        "refundProcessingDays": 7,
-        "refundRate": 70
       }
     ],
     "refundSettings": {
@@ -1901,8 +1901,8 @@
       "property": {
         "images": [
           {
-            "id": "d39961e1-d9da-4dc7-aa36-b8dea2eb9399",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/property_thumbnail/1775004748915-p9isqq75omq.jpg",
+            "id": "082bbfc1-7640-4e96-8e4d-441666b6904d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/property_thumbnail/1775185227356-zkfht9bvh8.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
