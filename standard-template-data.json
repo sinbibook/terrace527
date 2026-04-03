@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.24.0",
-    "generatedAt": "2026-04-03T03:02:01.750Z",
+    "version": "1.25.0",
+    "generatedAt": "2026-04-03T03:05:45.763Z",
     "templateType": "full_banner_accordion",
     "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
     "homepageId": "c7122610-5544-4e55-897a-d6f5b6149960"
@@ -1450,6 +1450,13 @@
               "hero": {
                 "title": "포천 테라스527 캠핑장",
                 "images": [
+                  {
+                    "id": "ecf35c55-ac41-4f9b-96e1-88b90327b036",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/main_hero/1775185482518-2cuphaoa4rm.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
                   {
                     "id": "56b36d90-0c61-4a50-a2c1-caa7f5805297",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/main_hero/1775008527421-shl5thflin.jpg",
