@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.20.0",
-    "generatedAt": "2026-04-03T00:49:28.072Z",
+    "version": "1.21.0",
+    "generatedAt": "2026-04-03T00:50:55.726Z",
     "templateType": "full_banner_accordion",
     "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
     "homepageId": "c7122610-5544-4e55-897a-d6f5b6149960"
@@ -1770,6 +1770,26 @@
                   "benefits": [],
                   "features": [],
                   "additionalInfos": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "eb7a4bfb-1ee5-400c-a379-cb79509e8887",
+            "sections": [
+              {
+                "hero": {
+                  "title": "캠핑장 인근에 산정호수가 위치해있습니다.",
+                  "images": []
+                },
+                "about": {
+                  "title": " ",
+                  "images": []
+                },
+                "experience": {
+                  "features": [],
+                  "additionalInfos": [],
+                  "benefits": []
                 }
               }
             ]
@@ -3908,6 +3928,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "c7122610-5544-4e55-897a-d6f5b6149960"
   }
 }
