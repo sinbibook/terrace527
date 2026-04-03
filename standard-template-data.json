@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-04-03T00:50:55.726Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-04-03T02:38:45.671Z",
     "templateType": "full_banner_accordion",
     "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
     "homepageId": "c7122610-5544-4e55-897a-d6f5b6149960"
@@ -1232,51 +1232,37 @@
                     "isSelected": true
                   },
                   {
-                    "id": "3fea38d9-b4c0-439f-b4a5-d68c7dd02776",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/index_hero/1775117165987-t4q7njem4.jpg",
-                    "sortOrder": 1,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
                     "id": "0f926770-1b92-4588-87c5-075e1108b88d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/index_hero/1775006036482-ubi0pknl9ma.jpg",
-                    "sortOrder": 2,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "4c63357e-6b09-46c8-a881-b5e079e3e0ea",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/index_hero/1775006036483-aum7j2qnszc.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "d2c69cd7-20ea-499b-b6f6-981674969fc8",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/index_hero/1775112961224-wieo6i8refg.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "79d7bc40-ec9c-49ba-bb1b-f7da2c36bcdb",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/index_hero/1775112961225-zucvmfuf9xi.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "19392c32-d992-4769-8263-1c8f8f2978a8",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/index_hero/1775006036483-dg0xcf8hm85.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "8a7eb66b-c2e6-4054-81d3-3bf2750edd89",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c7122610-5544-4e55-897a-d6f5b6149960/index_hero/1775006117451-zbw05jinpe.jpg",
-                    "sortOrder": 7,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true
                   }
@@ -1307,7 +1293,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "산정호수 옆, 테라스527 캠핑장은 \n숲과 하늘 속에서 걷고 쉬며 \n여유로운 하루를 보낼 수 있습니다.\n\n모든 객실은 개별 공간으로 \n프라이빗한 바비큐와 휴식을 제공합니다.\n불멍, 시네마 나잇 등 선택형 서비스도 \n함께 즐길 수 있습니다.\n\n주변 명소와 가까워 가볍게 \n이어지는 여행이 가능합니다.\n"
+                "description": "산정호수 옆, 테라스527 캠핑장은 \n숲과 하늘 속에서 걷고 쉬며 \n여유로운 하루를 보낼 수 있습니다.\n\n모든 객실은 개별 공간으로 \n프라이빗한 바비큐와 휴식을 제공합니다.\n불멍,버스 노래방 등 선택형 서비스도 \n함께 즐길 수 있습니다.\n\n주변 명소와 가까워 가볍게 \n이어지는 여행이 가능합니다.\n"
               },
               "gallery": {
                 "title": "포천 테라스 527 캠핑장 미리보기",
@@ -1444,7 +1430,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "산정호수 옆, 테라스527은 조용한 쉼을 위한 글램핑 & 스테이입니다.\n숲과 하늘 속에서 걷고 쉬며 여유로운 하루를 보낼 수 있습니다.\n모든 객실은 개별 공간으로 프라이빗한 바비큐와 휴식을 제공합니다.\n불멍, 시네마 나잇 등 선택형 스테이 서비스도 함께 즐길 수 있습니다.\n주변 명소와 가까워 가볍게 이어지는 여행이 가능합니다.\n일상의 속도를 낮추고 싶은 순간, 테라스527을 경험해보세요."
+                "description": "산정호수 옆, 테라스527은 조용한 쉼을 위한 글램핑 & 스테이입니다.\n숲과 하늘 속에서 걷고 쉬며 여유로운 하루를 보낼 수 있습니다.\n모든 객실은 개별 공간으로 프라이빗한 바비큐와 휴식을 제공합니다.\n불멍, 버스 노래방 등 선택형 스테이 서비스도 함께 즐길 수 있습니다.\n주변 명소와 가까워 가볍게 이어지는 여행이 가능합니다.\n일상의 속도를 낮추고 싶은 순간, 테라스527을 경험해보세요."
               },
               "about": [
                 {
@@ -1787,9 +1773,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
