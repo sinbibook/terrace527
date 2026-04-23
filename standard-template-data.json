@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.27.0",
-    "generatedAt": "2026-04-03T03:55:11.997Z",
+    "version": "1.28.0",
+    "generatedAt": "2026-04-23T05:40:39.409Z",
     "templateType": "full_banner_accordion",
     "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
     "homepageId": "c7122610-5544-4e55-897a-d6f5b6149960"
@@ -19,7 +19,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입/퇴실 안내]\n- 입실시각: 15시\n- 퇴실시각: 11시\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.",
-    "usageGuide": "[펜션 이용 안내 사항]\n- 기준 인원을 제외한 추가 인원(방문객 포함)은 추가 요금이 발생됩니다. (현장 결제)\n- 보호자 동반 없는 미성년자 단독 입실은 불가합니다.\n- 예약자와 실제 이용자가 다를 경우 입실이 제한될 수 있습니다.\n- 반려동물 동반은 불가합니다.\n- 상업적 촬영 및 이벤트 목적의 이용은 사전 협의가 필요합니다.\n- 객실 내 고기 및 생선 등 냄새나는 요리는 금지입니다.\n- 객실 내 흡연은 금지되어 있으며, 밤 10시 이후에는 매너 타임이 적용됩니다.\n\n[인원추가비(1박기준/현장결제)]\n- 만 6세 미만 무료\n- 만 6세~만 12세 미만 1인 10,000원\n- 만12세 이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n\n[공용바베큐+불멍]\n- 웨버그릴, 불멍용 참나무 장작세트, 오로라가루\n- 이용금액 : 4인기준 20,000원 / 1인 추가시 5,000원 (1회기준/현장결제)\n- 운영시간 : ~22시까지\n※ 숯/그릴 개인지참 불가\n\n[개별바베큐+불멍]\n- 웨버그릴, 불멍용 참나무 장작세트, 오로라가루\n- 이용금액 : 20,000원(1회기준/현장결제)\n- 운영시간 : ~22시까지\n※ 숯/그릴 개인지참 불가\n\n[야외수영장]\n지하 200m 천연 암반수 사용\n- 크기 : 7M 대형 아웃도어 풀\n- 이용요금 : 무료\n- 이용시간 : 10:00~18:00\n- 이용기간 : 하계 운영 예정(추후안내예정)\n※ 영유아, 어린이는 보호자 동반하여 이용부탁드립니다.\n\n[버스노래방]\n- 프라이빗 단독 버스노래방 이용가능\n- 이용요금 : 2만원(1시간/현장결제)\n- 이용시간 : 입실시~23시까지\n\n[자연계곡]\n- 도보 1분 거리 청청 계곡 위치\n\n[스파]\n- 이용기간 : 미정(추후안내예정)\n- 이용요금 :  무료\n\n[키즈존]\n- 실내 안전 정글짐\n- 야외 모래놀이 구역\n- 어린이 도서 코너\n- 이용요금 : 무료\n- 이용시간 : 10:00 ~ 20:00\n- 이용기간 : 미정(추후안내예정)\n\n[24시 라운지]\n- 한강 라면 이용가능\n- 프라미엄 캐술 커피 머신 이용가능\n- 24시간 무인 운영\n- 이용기간 : 미정(추후안내예정)\n\n[편의시설]\n- WIFI 전 객실 이용가능\n- 주차장 보유\n- 전객실 호텔식 침구류 구비\n\n[오시는 길]\n ※ 네비게이션에 주소 또는 숙소명을 검색해주세요\n- 도로명 주소 : 경기 포천시 영북면 산정호수로 529 테라스527\n\n[주변관광지]\n- 산정호수",
+    "usageGuide": "[펜션 이용 안내 사항]\n- 기준 인원을 제외한 추가 인원(방문객 포함)은 추가 요금이 발생됩니다. (현장 결제)\n- 보호자 동반 없는 미성년자 단독 입실은 불가합니다.\n- 예약자와 실제 이용자가 다를 경우 입실이 제한될 수 있습니다.\n- 반려동물 동반은 불가합니다.\n- 상업적 촬영 및 이벤트 목적의 이용은 사전 협의가 필요합니다.\n- 객실 내 고기 및 생선 등 냄새나는 요리는 금지입니다.\n- 객실 내 흡연은 금지되어 있으며, 밤 10시 이후에는 매너 타임이 적용됩니다.\n\n[인원추가비(1박기준/현장결제)]\n- 만 6세 미만 무료\n- 만 6세~만 12세 미만 1인 10,000원\n- 만12세 이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n\n[공용바베큐+불멍]\n- 웨버그릴, 불멍용 참나무 장작세트, 오로라가루\n- 이용금액 : 4인기준 20,000원 / 1인 추가시 5,000원 (1회기준/현장결제)\n- 운영시간 : ~22시까지\n※ 숯/그릴 개인지참 불가\n\n[개별바베큐+불멍]\n- 웨버그릴, 불멍용 참나무 장작세트, 오로라가루\n- 이용금액 : 20,000원(1회기준/현장결제)\n- 운영시간 : ~22시까지\n※ 숯/그릴 개인지참 불가\n\n[야외수영장]\n지하 200m 천연 암반수 사용\n- 크기 : 7M 대형 아웃도어 풀\n- 이용요금 : 무료\n- 이용시간 : 10:00~18:00\n- 운영기간 : 05월15일 ~ 09월30일\n※ 영유아, 어린이는 보호자 동반하여 이용부탁드립니다.\n\n[버스노래방]\n- 프라이빗 단독 버스노래방 이용가능\n- 이용요금 : 2만원(1시간/현장결제)\n- 이용시간 : 입실시~23시까지\n\n[자연계곡]\n- 도보 1분 거리 청청 계곡 위치\n\n[스파]\n- 이용기간 : 미정(추후안내예정)\n- 이용요금 :  무료\n\n[키즈존]\n- 실내 안전 정글짐\n- 야외 모래놀이 구역\n- 어린이 도서 코너\n- 이용요금 : 무료\n- 이용시간 : 10:00 ~ 20:00\n- 이용기간 : 미정(추후안내예정)\n\n[24시 라운지]\n- 한강 라면 이용가능\n- 프라미엄 캐술 커피 머신 이용가능\n- 24시간 무인 운영\n- 이용기간 : 미정(추후안내예정)\n\n[편의시설]\n- WIFI 전 객실 이용가능\n- 주차장 보유\n- 전객실 호텔식 침구류 구비\n\n[오시는 길]\n ※ 네비게이션에 주소 또는 숙소명을 검색해주세요\n- 도로명 주소 : 경기 포천시 영북면 산정호수로 529 테라스527\n\n[주변관광지]\n- 산정호수",
     "reservationGuide": "미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n최대 인원 초과 시 입실 불가하며, 이로 인한 환불은 불가입니다. (유아, 어린이 포함)\n현장 추가 요금은 숙소 측에 사전 확인 바랍니다.\n수영장 등 부대시설은 날씨나 상황에 따라 이용이 제한될 수 있으니 사전 확인 바랍니다.\n당일 예약 후 취소 시 환불 불가하며, 늦은 시간 당일 예약 후 즉시 방문 시 입실 불가할 수 있으니 숙소 확인 후 예약해 주세요.\n취소 수수료는 구매처마다 다를 수 있습니다.\n시스템 오류로 인해 정상가와 다른 금액으로 예약이 진행된 경우, 부득이하게 예약이 취소될 수 있습니다.\n전 객실 금연이며, 흡연은 지정된 장소에서만 가능합니다.",
     "province": "경기도",
     "city": "포천시",
@@ -514,18 +514,35 @@
   "rooms": [
     {
       "id": "3e7f5a8f-1e8d-4ae0-965b-93fda8df654d",
+      "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
+      "propertyName": "포천 테라스527 캠핑장",
       "name": "room 1",
+      "nameEn": "room 1",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 6세 미만 무료\n- 만 6세~만 12세 미만 1인 10,000원\n- 만12세 이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 49.59,
+      "sizePyeong": 15,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -555,6 +572,7 @@
         "침실분리형"
       ],
       "status": "active",
+      "bankAccountId": "be5f58e0-235a-446d-bceb-ed7595872a57",
       "images": [
         {
           "thumbnail": [],
@@ -562,22 +580,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 1
+      "displayOrder": 1,
+      "createdAt": "2026-03-26T09:06:56.667Z",
+      "updatedAt": "2026-04-01T04:01:59.438Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "95991a37-d96a-4aa2-a64b-16f4221600a9",
+      "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
+      "propertyName": "포천 테라스527 캠핑장",
       "name": "room 2(복층)",
+      "nameEn": "room 2",
       "description": "",
       "roomInfo": "복층형, 거실1+온돌룸(침구세트4)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 6세 미만 무료\n- 만 6세~만 12세 미만 1인 10,000원\n- 만12세 이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 39.67,
+      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 0,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 1,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "온돌"
@@ -606,6 +645,7 @@
         "복층"
       ],
       "status": "active",
+      "bankAccountId": "be5f58e0-235a-446d-bceb-ed7595872a57",
       "images": [
         {
           "thumbnail": [],
@@ -613,22 +653,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 2
+      "displayOrder": 2,
+      "createdAt": "2026-03-26T09:06:56.979Z",
+      "updatedAt": "2026-04-01T04:03:40.690Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "7c67e40e-a353-4e38-b89e-00dfb01a6c89",
+      "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
+      "propertyName": "포천 테라스527 캠핑장",
       "name": "room 3(복층)",
+      "nameEn": "room 3",
       "description": "",
       "roomInfo": "원룸형, 거실1+온돌룸(침구세트4)+주방1+화장실1+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 6세 미만 무료\n- 만 6세~만 12세 미만 1인 10,000원\n- 만12세 이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 59.5,
+      "sizePyeong": 18,
       "baseOccupancy": 4,
       "maxOccupancy": 7,
       "totalRoomCount": {
         "bedroom": 0,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 1,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "온돌"
@@ -658,6 +719,7 @@
         "복층"
       ],
       "status": "active",
+      "bankAccountId": "be5f58e0-235a-446d-bceb-ed7595872a57",
       "images": [
         {
           "thumbnail": [],
@@ -665,22 +727,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 3
+      "displayOrder": 3,
+      "createdAt": "2026-03-26T09:06:56.955Z",
+      "updatedAt": "2026-04-01T04:03:21.827Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "772208da-277c-4c8b-add4-e01c299c6c07",
+      "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
+      "propertyName": "포천 테라스527 캠핑장",
       "name": "room 4",
+      "nameEn": "room 4",
       "description": "",
       "roomInfo": "분리형, 거실1+침대룸(퀸침대1,침구세트2)+주방1+화장실1+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 6세 미만 무료\n- 만 6세~만 12세 미만 1인 10,000원\n- 만12세 이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 49.59,
+      "sizePyeong": 15,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -709,6 +792,7 @@
         "침실분리형"
       ],
       "status": "active",
+      "bankAccountId": "be5f58e0-235a-446d-bceb-ed7595872a57",
       "images": [
         {
           "thumbnail": [],
@@ -716,22 +800,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 4
+      "displayOrder": 4,
+      "createdAt": "2026-03-26T09:06:56.868Z",
+      "updatedAt": "2026-04-01T04:05:13.484Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "9b6fad5c-d5e4-40cc-ba1f-57c80800b678",
+      "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
+      "propertyName": "포천 테라스527 캠핑장",
       "name": "room 5(복층)",
+      "nameEn": "room 5",
       "description": "",
       "roomInfo": "",
       "usageGuide": "",
       "group": null,
       "size": 59.5,
+      "sizePyeong": 18,
       "baseOccupancy": 3,
       "maxOccupancy": 5,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -761,6 +866,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "be5f58e0-235a-446d-bceb-ed7595872a57",
       "images": [
         {
           "thumbnail": [],
@@ -768,22 +874,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 5
+      "displayOrder": 5,
+      "createdAt": "2026-03-26T09:06:56.897Z",
+      "updatedAt": "2026-04-01T04:06:37.590Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "15a67652-a801-449f-9d49-2de61db4e142",
+      "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
+      "propertyName": "포천 테라스527 캠핑장",
       "name": "글램핑1 (대형)",
+      "nameEn": "Glamping 1",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 6세 미만 무료\n- 만 6세~만 12세 미만 1인 10,000원\n- 만12세 이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 33.06,
+      "sizePyeong": 10,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -815,6 +942,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "be5f58e0-235a-446d-bceb-ed7595872a57",
       "images": [
         {
           "thumbnail": [],
@@ -822,22 +950,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 6
+      "displayOrder": 6,
+      "createdAt": "2026-03-26T09:06:56.922Z",
+      "updatedAt": "2026-04-02T01:37:46.848Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "88a8fa61-67a1-4c7d-a0bd-b4f921d084fd",
+      "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
+      "propertyName": "포천 테라스527 캠핑장",
       "name": "글램핑2 (대형)",
+      "nameEn": "Glamping 2",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 6세 미만 무료\n- 만 6세~만 12세 미만 1인 10,000원\n- 만12세 이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 33.06,
+      "sizePyeong": 10,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -868,6 +1017,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "be5f58e0-235a-446d-bceb-ed7595872a57",
       "images": [
         {
           "thumbnail": [],
@@ -875,22 +1025,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 7
+      "displayOrder": 7,
+      "createdAt": "2026-03-26T09:06:56.863Z",
+      "updatedAt": "2026-04-02T01:37:41.029Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "ba8f1941-4e0c-4c31-827f-d24bf53a16cb",
+      "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
+      "propertyName": "포천 테라스527 캠핑장",
       "name": "글램핑3 (대형)",
+      "nameEn": "Glamping 3",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 6세 미만 무료\n- 만 6세~만 12세 미만 1인 10,000원\n- 만12세 이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 33.06,
+      "sizePyeong": 10,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -919,6 +1090,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "be5f58e0-235a-446d-bceb-ed7595872a57",
       "images": [
         {
           "thumbnail": [],
@@ -926,22 +1098,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 8
+      "displayOrder": 8,
+      "createdAt": "2026-03-26T09:06:56.929Z",
+      "updatedAt": "2026-04-02T01:37:29.120Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "00cedfe1-7651-41ea-8429-a3f98faada6c",
+      "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
+      "propertyName": "포천 테라스527 캠핑장",
       "name": "글램핑4 (대형)",
+      "nameEn": "Glamping 4",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 6세 미만 무료\n- 만 6세~만 12세 미만 1인 10,000원\n- 만12세 이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 33.06,
+      "sizePyeong": 10,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -971,6 +1164,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "be5f58e0-235a-446d-bceb-ed7595872a57",
       "images": [
         {
           "thumbnail": [],
@@ -978,22 +1172,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 9
+      "displayOrder": 9,
+      "createdAt": "2026-03-26T09:06:56.857Z",
+      "updatedAt": "2026-04-02T01:37:18.490Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "683f167a-d051-40c6-8e16-afa5d8a27e2c",
+      "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
+      "propertyName": "포천 테라스527 캠핑장",
       "name": "글램핑5 (중형)",
+      "nameEn": "Glamping 5",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 6세 미만 무료\n- 만 6세~만 12세 미만 1인 10,000원\n- 만12세 이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 26.45,
+      "sizePyeong": 8,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1023,6 +1238,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "be5f58e0-235a-446d-bceb-ed7595872a57",
       "images": [
         {
           "thumbnail": [],
@@ -1030,22 +1246,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 10
+      "displayOrder": 10,
+      "createdAt": "2026-03-26T09:06:56.978Z",
+      "updatedAt": "2026-04-02T01:37:10.637Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "b346e36d-5163-4a95-8090-a199e5e846e0",
+      "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
+      "propertyName": "포천 테라스527 캠핑장",
       "name": "글램핑6 (중형)",
+      "nameEn": "Glamping 6",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 6세 미만 무료\n- 만 6세~만 12세 미만 1인 10,000원\n- 만12세 이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 26.45,
+      "sizePyeong": 8,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1074,6 +1311,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "be5f58e0-235a-446d-bceb-ed7595872a57",
       "images": [
         {
           "thumbnail": [],
@@ -1081,22 +1319,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 11
+      "displayOrder": 11,
+      "createdAt": "2026-03-26T09:06:56.969Z",
+      "updatedAt": "2026-04-02T01:39:12.599Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "ccb75931-7a34-45d3-b773-02ad676206c4",
+      "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
+      "propertyName": "포천 테라스527 캠핑장",
       "name": "글램핑7 (소형)",
+      "nameEn": "Glamping 7",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 6세 미만 무료\n- 만 6세~만 12세 미만 1인 10,000원\n- 만12세 이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 26.45,
+      "sizePyeong": 8,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1125,6 +1384,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "be5f58e0-235a-446d-bceb-ed7595872a57",
       "images": [
         {
           "thumbnail": [],
@@ -1132,22 +1392,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 12
+      "displayOrder": 12,
+      "createdAt": "2026-03-26T09:06:56.849Z",
+      "updatedAt": "2026-04-02T01:40:06.129Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "e9e39af7-10bc-4301-a06c-ed466fd28965",
+      "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
+      "propertyName": "포천 테라스527 캠핑장",
       "name": "글램핑8 (소형)",
+      "nameEn": "Glamping 8",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 6세 미만 무료\n- 만 6세~만 12세 미만 1인 10,000원\n- 만12세 이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 26.45,
+      "sizePyeong": 8,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1176,6 +1457,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "be5f58e0-235a-446d-bceb-ed7595872a57",
       "images": [
         {
           "thumbnail": [],
@@ -1183,22 +1465,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 13
+      "displayOrder": 13,
+      "createdAt": "2026-03-26T09:06:56.859Z",
+      "updatedAt": "2026-04-02T01:46:19.715Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "59eecf62-31cb-42e2-8462-08c4814090c3",
+      "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
+      "propertyName": "포천 테라스527 캠핑장",
       "name": "글램핑9 (소형)",
+      "nameEn": "Glamping 9",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 6세 미만 무료\n- 만 6세~만 12세 미만 1인 10,000원\n- 만12세 이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 26.45,
+      "sizePyeong": 8,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1226,6 +1529,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "be5f58e0-235a-446d-bceb-ed7595872a57",
       "images": [
         {
           "thumbnail": [],
@@ -1233,7 +1537,11 @@
           "exterior": []
         }
       ],
-      "displayOrder": 14
+      "displayOrder": 14,
+      "createdAt": "2026-03-26T09:06:56.998Z",
+      "updatedAt": "2026-04-02T01:46:52.715Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     }
   ],
   "homepage": {
@@ -1309,7 +1617,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "포천 테라스 527 캠핑장"
+                "description": "포천 테라스 527 캠핑장",
+                "mediaType": "image",
+                "videos": []
               },
               "closing": {
                 "title": " ",
@@ -1322,7 +1632,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": " "
+                "description": " ",
+                "mediaType": "image",
+                "videos": []
               },
               "essence": {
                 "title": " ",
@@ -1335,7 +1647,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "산정호수 옆, 테라스527 캠핑장은 \n숲과 하늘 속에서 걷고 쉬며 \n여유로운 하루를 보낼 수 있습니다.\n\n모든 객실은 개별 공간으로 \n프라이빗한 바비큐와 휴식을 제공합니다.\n불멍,버스 노래방 등 선택형 서비스도 \n함께 즐길 수 있습니다.\n\n주변 명소와 가까워 가볍게 \n이어지는 여행이 가능합니다.\n"
+                "description": "산정호수 옆, 테라스527 캠핑장은 \n숲과 하늘 속에서 걷고 쉬며 \n여유로운 하루를 보낼 수 있습니다.\n\n모든 객실은 개별 공간으로 \n프라이빗한 바비큐와 휴식을 제공합니다.\n불멍,버스 노래방 등 선택형 서비스도 \n함께 즐길 수 있습니다.\n\n주변 명소와 가까워 가볍게 \n이어지는 여행이 가능합니다.\n",
+                "mediaType": "image",
+                "videos": []
               },
               "gallery": {
                 "title": "포천 테라스 527 캠핑장 미리보기",
@@ -1376,7 +1690,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": " "
+                "description": " ",
+                "mediaType": "image",
+                "videos": []
               },
               "signature": {
                 "title": "산과 호수 곁에서 누리는 여유",
@@ -1403,7 +1719,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "캠핑장 앞에는 계곡과 산정호수가 펼쳐지고, 뒤로는 망봉산이 자리해\n테라스527은 자연과 함께 조용히 쉬어갈 수 있는 공간입니다."
+                "description": "캠핑장 앞에는 계곡과 산정호수가 펼쳐지고, 뒤로는 망봉산이 자리해\n테라스527은 자연과 함께 조용히 쉬어갈 수 있는 공간입니다.",
+                "mediaType": "image",
+                "videos": []
               }
             }
           ]
@@ -2035,7 +2353,9 @@
             "isSelected": true,
             "category": "property_exterior"
           }
-        ]
+        ],
+        "name": "포천 테라스527 캠핑장",
+        "nameEn": "Pocheon Terrace 527 Campground"
       },
       "roomtypes": [
         {
