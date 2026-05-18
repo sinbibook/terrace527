@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.29.0",
-    "generatedAt": "2026-05-14T09:17:35.286382383Z",
+    "version": "1.30.0",
+    "generatedAt": "2026-05-18T05:23:15.614892179Z",
     "templateType": "full_banner_accordion",
     "propertyId": "a10da11e-328c-4031-b916-ff171cd8d702",
     "homepageId": "c7122610-5544-4e55-897a-d6f5b6149960"
@@ -395,7 +395,7 @@
           {
             "id": "e07c030b-f0b7-43e9-8489-1a06c192fc3e",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/a10da11e-328c-4031-b916-ff171cd8d702/exterior/1775120505785-lqn8u91uv6c.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -559,7 +559,7 @@
     ],
     "nameEn": "Pocheon Terrace 527 Campground",
     "domain": "terrace527.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11510",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/1623947875",
     "ybsId": ""
   },
   "rooms": [
@@ -1568,8 +1568,8 @@
                     "blockId": null
                   }
                 ],
-                "description": "포천 테라스 527 캠핑장",
-                "videos": [ ]
+                "videos": [ ],
+                "description": "포천 테라스 527 캠핑장"
               },
               "closing": {
                 "title": " ",
@@ -1583,8 +1583,8 @@
                     "blockId": null
                   }
                 ],
-                "description": " ",
-                "videos": [ ]
+                "videos": [ ],
+                "description": " "
               },
               "essence": {
                 "title": " ",
@@ -1598,8 +1598,8 @@
                     "blockId": null
                   }
                 ],
-                "description": "산정호수 옆, 테라스527 캠핑장은 \n숲과 하늘 속에서 걷고 쉬며 \n여유로운 하루를 보낼 수 있습니다.\n\n모든 객실은 개별 공간으로 \n프라이빗한 바비큐와 휴식을 제공합니다.\n불멍,버스 노래방 등 선택형 서비스도 \n함께 즐길 수 있습니다.\n\n주변 명소와 가까워 가볍게 \n이어지는 여행이 가능합니다.\n",
-                "videos": [ ]
+                "videos": [ ],
+                "description": "산정호수 옆, 테라스527 캠핑장은 \n숲과 하늘 속에서 걷고 쉬며 \n여유로운 하루를 보낼 수 있습니다.\n\n모든 객실은 개별 공간으로 \n프라이빗한 바비큐와 휴식을 제공합니다.\n불멍,버스 노래방 등 선택형 서비스도 \n함께 즐길 수 있습니다.\n\n주변 명소와 가까워 가볍게 \n이어지는 여행이 가능합니다.\n"
               },
               "gallery": {
                 "title": "포천 테라스 527 캠핑장 미리보기",
@@ -1645,8 +1645,8 @@
                     "blockId": null
                   }
                 ],
-                "description": " ",
-                "videos": [ ]
+                "videos": [ ],
+                "description": " "
               },
               "signature": {
                 "title": "산과 호수 곁에서 누리는 여유",
@@ -1676,8 +1676,8 @@
                     "blockId": null
                   }
                 ],
-                "description": "캠핑장 앞에는 계곡과 산정호수가 펼쳐지고, 뒤로는 망봉산이 자리해\n테라스527은 자연과 함께 조용히 쉬어갈 수 있는 공간입니다.",
-                "videos": [ ]
+                "videos": [ ],
+                "description": "캠핑장 앞에는 계곡과 산정호수가 펼쳐지고, 뒤로는 망봉산이 자리해\n테라스527은 자연과 함께 조용히 쉬어갈 수 있는 공간입니다."
               }
             }
           ]
